@@ -1,0 +1,271 @@
+/*内页专用*/
+.banner1 {
+	width: 100%;
+	float: left;
+	margin: 6px 0px;
+	height: 120px;
+	overflow: hidden;
+}
+/*Left*/
+.left {
+	width: 260px;
+	float: left;
+	overflow: hidden;
+	margin-right: 10px;
+	font-family: "宋体";
+}
+.lth {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 250px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	height: 35px;
+	font-size: 14px;
+	color: #fff;
+	line-height: 30px;
+	padding-left: 10px;
+	background-color: #336699;
+}
+.left h2 span {
+	font-weight: normal;
+}
+.lborder {
+	border: 1px #E9E9E9 solid;
+	border-top: 0px;
+	;
+	float: left;
+	min-height: 100px;
+	width: 258px;
+	background-color: #FFFFFF;
+	margin-bottom: 10px;
+	background-color: #FFFFFF;
+}
+/*psort*/
+.psort {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	float: left;
+	margin-bottom: 10px;
+	list-style: none;
+}
+.psort li {
+	display: block;
+	width: 258px;
+	font-size: 14px;
+	height: 40px;
+	color: #444;
+	line-height: 40px;
+	border-bottom: 1px #E9E9E9 solid;
+}
+.psort li a {
+	display: block;
+	text-decoration: none;
+	color: #444;
+	font-size: 12px;
+	width: 240px;
+	padding-left: 15px;
+	overflow: hidden;
+	white-space: nowrap;
+	word-break: keep-all;
+	text-overflow: ellipsis;
+}
+.psort a:hover {
+	text-decoration: underline;
+	color: #cc0000;
+	background-color: #f9f9f9;
+	text-align: center;
+}
+.lcontact {
+	float: left;
+	width: 246px;
+	padding-left: 12px;
+	font-size: 12px;
+	line-height: 20px;
+	margin-top: 10px;
+	color: #666;
+	line-height: 24px;
+}
+.pSub {
+	font-size: 12px;
+}
+.pSub a {
+	text-decoration: none;
+	font-weight: normal;
+}
+.yyly {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	list-style: none;
+	width: 240px;
+	margin-top: 10px;
+}
+.yyly li {
+	display: block;
+	width: 230px;
+	height: 100px;
+}
+.yyly2 {
+	font-weight: bold;
+	font-size: 12px;
+	float: left;
+	overflow: hidden;
+	width: 120px;
+	margin-left: 10px;
+}
+.yyly2 span {
+	color: #CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*right*/
+#right {
+	width: 728px;
+	min-height: 100px;
+	float: left;
+	border: 1px solid #e0e0e0;
+	background-color: #FFF;
+}
+.right1 {
+	width: 728px;
+	height: 35px;
+	float: left;
+	background-color: #f3f3f3;
+}
+.right2 {
+	float: right;
+	height: 35px;
+	font-size: 14px;
+	line-height: 35px;
+	color: #6b6b6b;
+	padding-right: 12px;
+	text-align: right;
+}
+.right2 a {
+	color: #6b6b6b;
+	text-decoration: none;
+}
+.right2 a:hover {
+	text-decoration: underline;
+	color: #F00;
+}
+/*list*/
+.right3 {
+	list-style: none;
+	float: left;
+	overflow: hidden;
+	min-height: 300px;
+}
+.right3 li {
+	width: 682px;
+	height: 25px;
+	float: left;
+	margin: 5px 0px 8px 15px;
+	background: url(../img/list_bg03.png) left 6px no-repeat;
+}
+.right3 li a {
+	display: block;
+	height: 25px;
+	font-size: 14px;
+	line-height: 25px;
+	float: left;
+	text-decoration: none;
+	color: #6b6b6b;
+	margin-left: 12px;
+}
+.right3 li a:hover {
+	text-decoration: underline;
+}
+.right3 li h5 {
+	float: right;
+	font-size: 14px;
+	color: #666666;
+	line-height: 25px;
+	font-weight: normal;
+}
+/*content*/
+.content {
+	float: left;
+	overflow: hidden;
+	width: 708px;
+	font-size: 14px;
+	padding: 10px;
+	color: #333;
+	min-height: 300px;
+}
+.message2_2 {
+	width: 130px;
+	height: 35px;
+	float: left;
+	margin-left: 20px;
+	font-size: 14px;
+	line-height: 35px;
+}
+/*分页代码样式#*/
+#page {
+	margin: 20px 15px;
+	color: #0000CC;
+	display: block;
+	float: left;
+	height: 26px;
+	line-height: 24px;
+	overflow: hidden;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#page div {
+	display: block;
+	color: #666;
+	float: left;
+	margin-left: 10px;
+}
+#page span {
+	border: 1px #ccc solid;
+	display: block;
+	float: left;
+	color: #666;
+	font-weight: bold;
+	padding: 0px 10px;
+	height: 24px;
+	margin-right: 4px;
+}
+#page a {
+	display: block;
+	float: left;
+	border: 1px #E1E2E3 solid;
+	padding: 0px 10px;
+	text-decoration: none;
+	color: #0000CC;
+	height: 24px;
+	text-align: center;
+	margin-right: 6px;
+}
+#page b {
+	color: #000;
+	width: 30px;
+	height: 24px;
+}
+#pageGo {
+	display: block;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	line-height: 22px;
+	width: 24px;
+	text-align: center;
+	height: 22px;
+	border: 1px #ccc solid;
+}
+#pageBtn {
+	display: block;
+	float: left;
+	background-color: #fff;
+	width: 45px;
+	height: 24px;
+	line-height: 24px;
+	overflow: hidden;
+	border: 1px #3388FF solid;
+	text-align: center;
+}

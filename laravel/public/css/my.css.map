@@ -1,0 +1,1 @@
+{"version":3,"sources":["/resources/assets/sass/my.css"],"names":[],"mappings":"AACA;EAAG,aADW;CACK;;AACnB;EAAG,aAFW;CAEK;;AACnB;EAAG,aAHW;CAGK;;AACnB;EAAG,aAJW;CAIK","file":"my.css","sourcesContent":["$color : \"red\";\nh1{color: $color;}\nh2{color: $color;}\nh3{color: $color;}\nh4{color: $color;}"]}
